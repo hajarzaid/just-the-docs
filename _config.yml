@@ -16,7 +16,7 @@
 title: Hajar Zaid
 description: A simple documentation site
 baseurl: ""
-url: "https://hajarzaid.github.io/just-the-docs"  # Update with your GitHub Pages URL
+url: "https://hajarzaid.github.io"  # Update with your GitHub Pages URL
 repository: hajarzaid/just-the-docs # for github-metadata
 
 permalink: pretty
